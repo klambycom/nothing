@@ -1,0 +1,75 @@
+// profile = orange
+[InputProfile{bg:orange}]<>1-*[InputProfileVariable{bg:orange}]
+[InputProfileVariable{bg:orange}]<>1-*[InputProfileValue{bg:orange}]
+[ProfileExecutor{bg:orange}]->[InputProfile{bg:orange}]
+[ProfileExecutor{bg:orange}]-.->[InputProfileVariable{bg:orange}]
+[ProfileExecutor{bg:orange}]-.->[InputProfileValue{bg:orange}]
+// service.adaptation.effector = yellowgreen
+[AbstractEffector{bg:yellowgreen}]
+[CacheEffector{bg:yellowgreen}]
+[ConfigurationEffector{bg:yellowgreen}]
+[WorkflowEffector{bg:yellowgreen}]
+// service.adaptation.probes = yellowgreen
+[AbstractProbe{bg:yellowgreen}]
+[CostProbe{bg:yellowgreen}]
+[WorkflowProbe{bg:yellowgreen}]
+// service.adaptation.probes.interfaces = yellowgreen
+[CostProbeInterface{bg:yellowgreen}]
+[WorkflowProbeInterface{bg:yellowgreen}]
+// service.atomic = wheat
+[AtomicService{bg:wheat}]
+[ServiceProfile{bg:wheat}]
+[ServiceProfileAttribute{bg:wheat}]
+// service.auxilliary = thistle
+[AbstractMessage{bg:thistle}]
+[AbstractService{bg:thistle}]
+[AtomicServiceConfiguration{bg:thistle}]
+[CompositeServiceConfiguration{bg:thistle}]
+[Configuration{bg:thistle}]
+[LocalOperation{bg:thistle}]
+[Operation{bg:thistle}]
+[OperationAborted{bg:thistle}]
+[Param{bg:thistle}]
+[Request{bg:thistle}]
+[Response{bg:thistle}]
+[ServiceDescription{bg:thistle}]
+[ServiceOperation{bg:thistle}]
+[ServiceRegistryInterface{bg:thistle}]
+[TimeOutError{bg:thistle}]
+[XMLBuilder{bg:thistle}]
+// service.client = tomato
+[AbstractServiceClient{bg:tomato}]
+// service.composite = steelblue
+[CompositeService{bg:steelblue}]
+[CompositeServiceClient{bg:steelblue}]
+[SDCache{bg:steelblue}]
+// service.provider = violet
+[MessageReceiver{bg:violet}]
+[ServiceProvider{bg:violet}]
+[ServiceProviderFactory{bg:violet}]
+// service.provider.activemq
+[ActiveMQProvider{bg:violet}]
+// service.provider.rsp
+[RSPMessagingService{bg:violet}]
+[RSPServiceProvider{bg:violet}]
+// service.registry = slategray
+[ServiceRegistry{bg:slategray}]
+// service.utility = skyblue
+[LogAtomicService{bg:skyblue}]
+[LogFailure{bg:skyblue}]
+[Time{bg:skyblue}]
+// service.workflow = sienna
+[AbstractQoSRequirement{bg:sienna}]
+[WorkflowEngine{bg:sienna}]
+// service.workflow.ast
+[ASTNode{bg:sienna}]
+[rspLexer{bg:sienna}]
+[rspParser{bg:sienna}]
+// taskgraph = rosybrown
+[TaskGraph{bg:rosybrown}]
+[TaskGraphInterpreter{bg:rosybrown}]
+// tools = powderblue
+[ASTSymTabVisualizer{bg:powderblue}]
+[GMLExporter{bg:powderblue}]
+[GMLHelper{bg:powderblue}]
+[TaskGraphVisualizer{bg:powderblue}]
