@@ -21,6 +21,9 @@
 
 #### 2.1.1. View Description
 
+The layered view describes how the whole system is structured in layers and
+serves as an introduction.
+
 #### 2.1.2. View Packet Overview
 
 #### 2.1.3. Architecture Background
@@ -36,6 +39,9 @@
 
 #### 2.2.1. View Description
 
+The logical view describes the most important classes and their organization in
+packages.
+
 #### 2.2.2. View Packet Overview
 
 #### 2.2.3. Architecture Background
@@ -50,6 +56,9 @@
 ### 2.3. Generalization View
 
 #### 2.3.1. View Description
+
+The generalization view allows capturing inheritance relations, such as
+commonalities and differences between different elements.
 
 #### 2.3.2. View Packet Overview
 
