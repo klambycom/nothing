@@ -65,6 +65,8 @@ packages.
 
 ![Packages](packages.png)
 
+Providers are in the package `service.provider` and `service.provider.activemq`.
+
 ##### 2.2.2.2. Provider
 
 ##### 2.2.2.3. Adaptatiion
