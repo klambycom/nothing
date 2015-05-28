@@ -84,7 +84,7 @@ Effectors and Probes are in the package `service.adaptation.effector` and
 
 ##### 2.2.2.4. Composite
 
-![Composite](composite.png)
+![Composite](compsite.png)
 
 ##### 2.2.2.5. Atomic
 
