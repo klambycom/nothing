@@ -61,6 +61,18 @@ packages.
 
 #### 2.2.2. View Packets
 
+##### 2.2.2.1. Packages
+
+![Packages](packages.png)
+
+##### 2.2.2.2. Provider
+
+##### 2.2.2.3. Adaptatiion
+
+##### 2.2.2.4. Composite
+
+##### 2.2.2.5. Atomic
+
 
 ### 2.3. Generalization View
 
@@ -70,15 +82,3 @@ The generalization view allows capturing inheritance relations, such as
 commonalities and differences between different elements.
 
 #### 2.3.2. View Packets
-
-
-
-## 3. Relations Among Views
-
-
-
-## 4. Referenced Materials
-
-
-
-## 5. Glossery
