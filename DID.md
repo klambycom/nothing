@@ -86,6 +86,29 @@ Effectors and Probes are in the package `service.adaptation.effector` and
 
 ![Composite](compsite.png)
 
+* **CompositeService** is used to create compsite services, and inherits from
+  AbstractService.
+  * *setWorkflow()*: set the workflow.
+  * *getCache()*: return the cache (SDCache).
+  * *addQosRequirement()*: add QoS requirement.
+  * *getQosRequirements()*: return all QoS requirements.
+  * *getQosRequirementName()*: return list of QoS names added in to the
+    composite service.
+  * *invokeCompositeService()*: invoke composite service and start a workflow.
+  * *invokeOperation()*: override invokeOperation from AbstractService.
+  * *lookupService()*: find service descriptions from service registry.
+  * *getCostProbe()*: return cost probe.
+  * *getWorkflowProbe()*: return workflow probe.
+  * *getConfigurationEffector()*: return configuration effector.
+  * *containServices()*: return true if composite service contains a specific
+    service.
+  * *getServiceDescription()*: get a specific service description.
+  * *stopRetrying()*: stop retrying when compsite service is retrying after
+    a service has failed.
+* **WorkflowEngine** is used to execute the workflow of composite services.
+  * *executeWorkflow()*: execute the workflow with a QoS requirement and
+    initial params.
+
 ##### 2.2.2.5. Atomic
 
 ![Atomic](atomic.png)
