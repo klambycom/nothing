@@ -66,6 +66,10 @@ packages.
 ![Packages](packages.png)
 
 Providers are in the package `service.provider` and `service.provider.activemq`.
+Composites and Atomics are in the package `service.composite` and
+`service.atomic`.
+Effectors and Probes are in the package `service.adaptation.effector` and
+`service.adaptation.probes`.
 
 ##### 2.2.2.2. Provider
 
