@@ -90,6 +90,26 @@ Effectors and Probes are in the package `service.adaptation.effector` and
 
 ![Atomic](atomic.png)
 
+* *AtomicService* is used to create services, and inherits from
+  AbstractService.
+  * **removeServiceProfile()**: remove a profile.
+  * **addServiceProfile()**: add a profile.
+  * **getServiceProfiles()**: get all profiles.
+  * **invokeOperation()**: override invokeOperation() from AbstractService.
+* *ServiceProfile* have methods that is called before and after messages to
+  emulating the non-functional characteristics of the behavior of services.
+  * **preInvokeOperation()**: called before invoking a service operation, stops
+    operation if false is returned.
+  * **postInvokeOperation()**: called after invoking a service operation.
+* *ServiceRegistry* is used to register and unregister services, and lookup
+  services.
+  * **getAllServices()**: returns the names of all services.
+  * **register()**: register a service.
+  * **unRegister()**: unregister a service.
+  * **lookup()**: lookup services that have a specified service name and
+    operation name.
+  * **update()**: update service description.
+
 
 ### 2.3. Generalization View
 
