@@ -71,11 +71,7 @@ Composites and Atomics are in the package `service.composite` and
 Effectors and Probes are in the package `service.adaptation.effector` and
 `service.adaptation.probes`.
 
-##### 2.2.2.2. Provider
-
-![Provider](providers.png)
-
-##### 2.2.2.3. Adaptation
+##### 2.2.2.2. Adaptation
 
 ![Adaptation](adaptation.png)
 
@@ -96,7 +92,7 @@ Effectors and Probes are in the package `service.adaptation.effector` and
   * *register()*: register a probe.
   * *unRegister()*: unregister a probe.
 
-##### 2.2.2.4. Composite
+##### 2.2.2.3. Composite
 
 ![Composite](compsite.png)
 
@@ -123,7 +119,7 @@ Effectors and Probes are in the package `service.adaptation.effector` and
   * *executeWorkflow()*: execute the workflow with a QoS requirement and
     initial params.
 
-##### 2.2.2.5. Atomic
+##### 2.2.2.4. Atomic
 
 ![Atomic](atomic.png)
 
