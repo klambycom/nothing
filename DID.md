@@ -79,8 +79,22 @@ Effectors and Probes are in the package `service.adaptation.effector` and
 
 ![Adaptation](adaptation.png)
 
-* **AbstractEffecter**
-* **AbstractProbe**
+* **AbstractEffecter** is an abstract effector, used by CacheEffector,
+  ConfigurationEffector and WorkflowEffector. Effector is used to enable
+  runtime manipulation of the service application.
+  * *getCompositeService()*: get composite service.
+* **AbstractProbe** is an abstract probe, used by CostProbe and WorkflowProbe.
+  Probes is used for monitoring events in the service application.
+  * *workflowStarted()*: probe for when workflow started.
+  * *workflowEnded()*: probe for when workflow ended.
+  * *serviceOperationInvoked()*: probe for when invoking a service.
+  * *serviceOperationReturned()*: probe for when receiving the response from
+    a service.
+  * *serviceOperationTimeout()*: probe for when a service timeouts.
+  * *costOperation()*: probe for the cost of a service.
+  * *serviceNotFound()*: probe for when the service to be invoked is not found.
+  * *register()*: register a probe.
+  * *unRegister()*: unregister a probe.
 
 ##### 2.2.2.4. Composite
 
