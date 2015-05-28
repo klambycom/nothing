@@ -73,11 +73,22 @@ Effectors and Probes are in the package `service.adaptation.effector` and
 
 ##### 2.2.2.2. Provider
 
-##### 2.2.2.3. Adaptatiion
+![Provider](providers.png)
+
+##### 2.2.2.3. Adaptation
+
+![Adaptation](adaptation.png)
+
+* *AbstractEffecter*
+* *AbstractProbe*
 
 ##### 2.2.2.4. Composite
 
+![Composite](composite.png)
+
 ##### 2.2.2.5. Atomic
+
+![Atomic](atomic.png)
 
 
 ### 2.3. Generalization View
