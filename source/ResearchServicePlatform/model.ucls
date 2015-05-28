@@ -1,0 +1,1561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.8" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="profile.InputProfile" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/profile/InputProfile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="260" width="288" x="143" y="296"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="profile.InputProfileValue" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/profile/InputProfileValue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="188" width="204" x="143" y="806"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="profile.InputProfileVariable" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/profile/InputProfileVariable.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="170" width="304" x="143" y="596"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="profile.ProfileExecutor" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/profile/ProfileExecutor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="152" width="166" x="143" y="104"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="service.adaptation.effector.ConfigurationEffector" 
+    project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/adaptation/effector/ConfigurationEffector.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="626" y="381"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="service.adaptation.effector.AbstractEffector" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/adaptation/effector/AbstractEffector.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="774" y="225"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="service.adaptation.effector.CacheEffector" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/adaptation/effector/CacheEffector.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="996" y="708"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="service.adaptation.effector.WorkflowEffector" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/adaptation/effector/WorkflowEffector.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="996" y="435"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="service.adaptation.probes.WorkflowProbe" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/adaptation/probes/WorkflowProbe.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="296" width="455" x="450" y="1180"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="service.adaptation.probes.CostProbe" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/adaptation/probes/CostProbe.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="287" x="945" y="1180"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="service.adaptation.probes.AbstractProbe" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/adaptation/probes/AbstractProbe.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="260" width="424" x="698" y="880"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="12" language="java" name="service.adaptation.probes.interfaces.CostProbeInterface" 
+    project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/adaptation/probes/interfaces/CostProbeInterface.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="80" width="232" x="1382" y="909"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="13" language="java" name="service.adaptation.probes.interfaces.WorkflowProbeInterface" 
+    project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/adaptation/probes/interfaces/WorkflowProbeInterface.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="170" width="424" x="1654" y="909"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <annotation id="14" language="java" name="service.atomic.ServiceProfileAttribute" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/atomic/ServiceProfileAttribute.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="62" width="178" x="1693" y="485"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </annotation>  
+  <class id="15" language="java" name="service.atomic.ServiceProfile" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/atomic/ServiceProfile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="299" x="1865" y="731"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="service.atomic.AtomicService" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/atomic/AtomicService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="206" width="253" x="1911" y="485"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <annotation id="17" language="java" name="service.auxiliary.AtomicServiceConfiguration" 
+    project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/auxiliary/AtomicServiceConfiguration.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1528" y="1364"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </annotation>  
+  <annotation id="18" language="java" name="service.auxiliary.LocalOperation" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/auxiliary/LocalOperation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1742" y="1337"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </annotation>  
+  <class id="19" language="java" name="service.auxiliary.Operation" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/auxiliary/Operation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3217" y="2630"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="service.auxiliary.Request" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/auxiliary/Request.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2175" y="1979"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="service.auxiliary.AbstractMessage" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/auxiliary/AbstractMessage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2300" y="1427"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="service.auxiliary.TimeOutError" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/auxiliary/TimeOutError.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1904" y="1346"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="service.auxiliary.Param" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/auxiliary/Param.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2131" y="2585"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="service.auxiliary.AbstractService" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/auxiliary/AbstractService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3621" y="1562"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="service.auxiliary.XMLBuilder" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/auxiliary/XMLBuilder.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2078" y="1373"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <annotation id="26" language="java" name="service.auxiliary.CompositeServiceConfiguration" 
+    project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/auxiliary/CompositeServiceConfiguration.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2567" y="1427"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </annotation>  
+  <class id="27" language="java" name="service.auxiliary.ServiceDescription" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/auxiliary/ServiceDescription.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3253" y="2150"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="28" language="java" name="service.auxiliary.ServiceRegistryInterface" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/auxiliary/ServiceRegistryInterface.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2867" y="1382"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="29" language="java" name="service.auxiliary.Configuration" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/auxiliary/Configuration.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3634" y="1997"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <annotation id="30" language="java" name="service.auxiliary.ServiceOperation" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/auxiliary/ServiceOperation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3123" y="1346"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </annotation>  
+  <class id="31" language="java" name="service.auxiliary.Response" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/auxiliary/Response.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2432" y="1979"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="service.auxiliary.OperationAborted" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/auxiliary/OperationAborted.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3319" y="1355"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="service.client.AbstractServiceClient" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/client/AbstractServiceClient.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="278" width="221" x="140" y="1125"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="service.composite.CompositeService" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/composite/CompositeService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="458" width="515" x="311" y="1957"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="service.composite.SDCache.Description" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/composite/SDCache.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="170" width="163" x="311" y="2953"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="service.composite.CompositeServiceClient" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/composite/CompositeServiceClient.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="134" width="284" x="866" y="1957"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="service.composite.SDCache" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/composite/SDCache.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="458" width="364" x="311" y="2455"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="38" language="java" name="service.provider.MessageReceiver" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/provider/MessageReceiver.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="80" width="156" x="1336" y="2384"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="39" language="java" name="service.provider.ServiceProvider" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/provider/ServiceProvider.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="267" x="1532" y="2384"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="40" language="java" name="service.provider.ServiceProviderFactory" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/provider/ServiceProviderFactory.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="98" width="245" x="1839" y="2384"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="service.provider.activemq.ActiveMQProvider" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/provider/activemq/ActiveMQProvider.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="206" width="310" x="933" y="2493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" name="service.provider.rsp.RSPMessagingService" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/provider/rsp/RSPMessagingService.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="350" width="239" x="2659" y="2926"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="service.provider.rsp.RSPServiceProvider" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/provider/rsp/RSPServiceProvider.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="152" width="267" x="2659" y="2734"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="service.registry.ServiceRegistry" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/registry/ServiceRegistry.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="224" width="285" x="1786" y="2986"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="service.utility.LogFailure" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/utility/LogFailure.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="170" width="424" x="3036" y="3065"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="46" language="java" name="service.utility.LogAtomicService" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/utility/LogAtomicService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="299" x="3500" y="3065"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="47" language="java" name="service.utility.Time" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/utility/Time.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="98" x="3839" y="3065"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="48" language="java" name="service.workflow.AbstractQoSRequirement" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/workflow/AbstractQoSRequirement.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="894" y="3193"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="49" language="java" name="service.workflow.WorkflowEngine" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/service/workflow/WorkflowEngine.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1312" y="3202"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="50" language="java" name="taskgraph.TaskGraph.ALLOC" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraph.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="206" width="187" x="4838" y="2738"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="51" language="java" name="taskgraph.TaskGraph.Load" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraph.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="127" x="3348" y="2738"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="52" language="java" name="taskgraph.TaskGraph.BinaryOp" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraph.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="224" width="186" x="1617" y="2738"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="53" language="java" name="taskgraph.TaskGraph.ARRAY_ACCESS" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraph.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="152" width="166" x="2772" y="3362"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="54" language="java" name="taskgraph.TaskGraph.BooleanLiteral" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraph.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="124" x="3917" y="3362"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="55" language="java" name="taskgraph.TaskGraph.LIST_END" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraph.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="127" x="5399" y="2738"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="56" language="java" name="taskgraph.TaskGraph" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraph.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="260" width="197" x="3348" y="2418"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="57" language="java" name="taskgraph.TaskGraph.START" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraph.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="127" x="2130" y="2738"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="58" language="java" name="taskgraph.TaskGraph.RATE" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraph.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="188" width="145" x="3163" y="2190"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="59" language="java" name="taskgraph.TaskGraph.PARALLEL" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraph.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="245" x="2297" y="2738"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="60" language="java" name="taskgraph.TaskGraph.LIST_ITEM" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraph.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="127" x="2603" y="2738"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="61" language="java" name="taskgraph.TaskGraph.PARAM" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraph.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="127" x="2812" y="2738"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="62" language="java" name="taskgraph.TaskGraph.CALL" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraph.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="206" width="244" x="5566" y="2738"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="63" language="java" name="taskgraph.TaskGraph.RETURN" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraph.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="127" x="5232" y="2738"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="64" language="java" name="taskgraph.TaskGraph.Literal" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraph.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="127" x="5065" y="2738"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="65" language="java" name="taskgraph.TaskGraph.PUSH" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraph.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="152" width="141" x="2979" y="2738"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="66" language="java" name="taskgraph.TaskGraph.IF" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraph.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="188" width="166" x="3589" y="2190"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="67" language="java" name="taskgraph.TaskGraph.RANGE" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraph.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="188" width="159" x="3348" y="2190"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="68" language="java" name="taskgraph.TaskGraph.EBinaryOp" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraph.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1683" y="3565"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="69" language="java" name="taskgraph.TaskGraph.EUnaryOp" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraph.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="206" width="223" x="3496" y="3362"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="70" language="java" name="taskgraph.TaskGraph.End" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraph.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="127" x="3181" y="2738"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="71" language="java" name="taskgraph.TaskGraph.Store" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraph.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="188" width="226" x="1864" y="2738"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="72" language="java" name="taskgraph.TaskGraph.IntLiteral" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraph.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="111" x="4413" y="3362"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="73" language="java" name="taskgraph.TaskGraph.DECL" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraph.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="278" width="178" x="4620" y="2738"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="74" language="java" name="taskgraph.TaskGraph.MemoryOperation" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraph.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="188" width="160" x="3795" y="2190"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="75" language="java" name="taskgraph.TaskGraph.LIST_START" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraph.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="127" x="3536" y="2738"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="76" language="java" name="taskgraph.TaskGraph.INSTANTIATE" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraph.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="193" x="3703" y="2738"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="77" language="java" name="taskgraph.TaskGraph.ETaskType" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraph.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="584" width="213" x="3957" y="2738"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="78" language="java" name="taskgraph.TaskGraph.TernaryOp" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraph.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="127" x="4453" y="2738"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="79" language="java" name="taskgraph.TaskGraphInterpreter" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraphInterpreter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="260" width="359" x="2714" y="1890"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="80" language="java" name="taskgraph.TaskGraph.UnaryOp" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraph.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="182" x="4210" y="2738"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="81" language="java" name="taskgraph.TaskGraph.EAssignOp" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraph.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="278" width="226" x="2506" y="3362"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="82" language="java" name="taskgraph.TaskGraph.Expression" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraph.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="143" x="4210" y="1890"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="83" language="java" name="taskgraph.TaskGraph.QUALIFIED_ACCESS" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/taskgraph/TaskGraph.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="165" x="3141" y="3362"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="84" language="java" name="tools.ASTSymTabVisualizer" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/tools/ASTSymTabVisualizer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="956" y="4160"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="85" language="java" name="tools.GMLExporter" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/tools/GMLExporter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="896" y="3608"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="86" language="java" name="tools.GMLHelper" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/tools/GMLHelper.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1260" y="3770"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="87" language="java" name="tools.TaskGraphVisualizer" project="ResearchServicePlatform" 
+    file="/ResearchServicePlatform/src/tools/TaskGraphVisualizer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1300" y="4205"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="88">    
+    <end type="SOURCE" refId="76"/>    
+    <end type="TARGET" refId="56"/>  
+  </generalization>  
+  <nesting id="89">    
+    <bendpoint x="3150" y="2738"/>    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="83"/>  
+  </nesting>  
+  <association id="90">    
+    <end type="SOURCE" refId="87" navigable="false">      
+      <attribute id="91" name="allTaskGraphs"/>      
+      <multiplicity id="92" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="93">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="71"/>  
+  </nesting>  
+  <generalization id="94">    
+    <end type="SOURCE" refId="84"/>    
+    <end type="TARGET" refId="85"/>  
+  </generalization>  
+  <generalization id="95">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="64"/>  
+  </generalization>  
+  <association id="96">    
+    <end type="SOURCE" refId="52" navigable="false">      
+      <attribute id="97" name="binaryOp"/>      
+      <multiplicity id="98" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="68" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="99">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="35"/>  
+  </nesting>  
+  <generalization id="100">    
+    <bendpoint x="2870" y="2418"/>    
+    <bendpoint x="2870" y="2190"/>    
+    <end type="SOURCE" refId="52"/>    
+    <end type="TARGET" refId="82"/>  
+  </generalization>  
+  <association id="101">    
+    <end type="SOURCE" refId="58" navigable="false">      
+      <attribute id="102" name="q"/>      
+      <multiplicity id="103" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="56" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="104">    
+    <end type="SOURCE" refId="71" navigable="false">      
+      <attribute id="105" name="assignOp"/>      
+      <multiplicity id="106" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="81" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="107">    
+    <bendpoint x="3595" y="2418"/>    
+    <end type="SOURCE" refId="51"/>    
+    <end type="TARGET" refId="74"/>  
+  </generalization>  
+  <association id="108">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="109" name="compositeService"/>      
+      <multiplicity id="110" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="111">    
+    <bendpoint x="3558" y="2190"/>    
+    <end type="SOURCE" refId="82"/>    
+    <end type="TARGET" refId="56"/>  
+  </generalization>  
+  <nesting id="112">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="52"/>  
+  </nesting>  
+  <association id="113">    
+    <end type="SOURCE" refId="76" navigable="false">      
+      <attribute id="114" name="targetEnd"/>      
+      <multiplicity id="115" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="56" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="116">    
+    <end type="SOURCE" refId="61"/>    
+    <end type="TARGET" refId="56"/>  
+  </generalization>  
+  <realization id="117">    
+    <end type="SOURCE" refId="43"/>    
+    <end type="TARGET" refId="39"/>  
+  </realization>  
+  <generalization id="118">    
+    <bendpoint x="4646" y="2418"/>    
+    <bendpoint x="4646" y="2190"/>    
+    <end type="SOURCE" refId="64"/>    
+    <end type="TARGET" refId="82"/>  
+  </generalization>  
+  <association id="119">    
+    <end type="SOURCE" refId="67" navigable="false">      
+      <attribute id="120" name="max"/>      
+      <multiplicity id="121" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="56" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="122">    
+    <end type="SOURCE" refId="87"/>    
+    <end type="TARGET" refId="85"/>  
+  </generalization>  
+  <association id="123">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="124" name="serviceProvider"/>      
+      <multiplicity id="125" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="39" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="126">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="63"/>  
+  </nesting>  
+  <nesting id="127">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="77"/>  
+  </nesting>  
+  <nesting id="128">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="78"/>  
+  </nesting>  
+  <association id="129">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="130" name="compositeService"/>      
+      <multiplicity id="131" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="132">    
+    <bendpoint x="4730" y="2418"/>    
+    <bendpoint x="4730" y="2190"/>    
+    <end type="SOURCE" refId="63"/>    
+    <end type="TARGET" refId="82"/>  
+  </generalization>  
+  <association id="133">    
+    <end type="SOURCE" refId="42" navigable="false">      
+      <attribute id="134" name="instance"/>      
+      <multiplicity id="135" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="42" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="136">    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="137" name="rspMessagingService"/>      
+      <multiplicity id="138" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="42" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="139">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="58"/>  
+  </nesting>  
+  <generalization id="140">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <generalization id="141">    
+    <end type="SOURCE" refId="57"/>    
+    <end type="TARGET" refId="56"/>  
+  </generalization>  
+  <association id="142">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="143" name="profile"/>      
+      <multiplicity id="144" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="145">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="67"/>  
+  </nesting>  
+  <association id="146">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="147" name="params"/>      
+      <multiplicity id="148" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="149">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="150" name="serviceProvider"/>      
+      <multiplicity id="151" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="39" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="152">    
+    <bendpoint x="2781" y="2738"/>    
+    <end type="SOURCE" refId="53" navigable="false">      
+      <attribute id="153" name="index"/>      
+      <multiplicity id="154" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="56" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="155">    
+    <end type="SOURCE" refId="52" navigable="false">      
+      <attribute id="156" name="right"/>      
+      <multiplicity id="157" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="56" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="158">    
+    <bendpoint x="1833" y="2738"/>    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="68"/>  
+  </nesting>  
+  <generalization id="159">    
+    <bendpoint x="4030" y="2418"/>    
+    <end type="SOURCE" refId="78"/>    
+    <end type="TARGET" refId="66"/>  
+  </generalization>  
+  <nesting id="160">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="73"/>  
+  </nesting>  
+  <nesting id="161">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="60"/>  
+  </nesting>  
+  <generalization id="162">    
+    <bendpoint x="4219" y="2418"/>    
+    <bendpoint x="4219" y="2190"/>    
+    <end type="SOURCE" refId="80"/>    
+    <end type="TARGET" refId="82"/>  
+  </generalization>  
+  <association id="163">    
+    <end type="SOURCE" refId="58" navigable="false">      
+      <attribute id="164" name="r"/>      
+      <multiplicity id="165" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="56" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="166">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="70"/>  
+  </nesting>  
+  <association id="167">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="168" name="opList"/>      
+      <multiplicity id="169" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="170">    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="171" name="client"/>      
+      <multiplicity id="172" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="173">    
+    <bendpoint x="4533" y="2418"/>    
+    <bendpoint x="4533" y="2190"/>    
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="82"/>  
+  </generalization>  
+  <association id="174">    
+    <end type="SOURCE" refId="79" navigable="false">      
+      <attribute id="175" name="compositeService"/>      
+      <multiplicity id="176" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="177">    
+    <bendpoint x="3505" y="2738"/>    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="69"/>  
+  </nesting>  
+  <generalization id="178">    
+    <end type="SOURCE" refId="83"/>    
+    <end type="TARGET" refId="51"/>  
+  </generalization>  
+  <generalization id="179">    
+    <end type="SOURCE" refId="58"/>    
+    <end type="TARGET" refId="82"/>  
+  </generalization>  
+  <association id="180">    
+    <end type="SOURCE" refId="80" navigable="false">      
+      <attribute id="181" name="unaryOp"/>      
+      <multiplicity id="182" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="69" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="183">    
+    <end type="SOURCE" refId="72"/>    
+    <end type="TARGET" refId="64"/>  
+  </generalization>  
+  <association id="184">    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="185" name="costProbe"/>      
+      <multiplicity id="186" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="187">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="188" name="variables"/>      
+      <multiplicity id="189" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="190">    
+    <end type="SOURCE" refId="70"/>    
+    <end type="TARGET" refId="56"/>  
+  </generalization>  
+  <generalization id="191">    
+    <end type="SOURCE" refId="65"/>    
+    <end type="TARGET" refId="56"/>  
+  </generalization>  
+  <generalization id="192">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <association id="193">    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="194" name="workflowProbe"/>      
+      <multiplicity id="195" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="196">    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="197" name="messageReceiver"/>      
+      <multiplicity id="198" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="38" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="199">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="51"/>  
+  </nesting>  
+  <generalization id="200">    
+    <bendpoint x="4813" y="2418"/>    
+    <bendpoint x="4813" y="2190"/>    
+    <end type="SOURCE" refId="55"/>    
+    <end type="TARGET" refId="82"/>  
+  </generalization>  
+  <association id="201">    
+    <end type="SOURCE" refId="66" navigable="false">      
+      <attribute id="202" name="False"/>      
+      <multiplicity id="203" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="56" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="204">    
+    <end type="SOURCE" refId="44" navigable="false">      
+      <attribute id="205" name="serviceList"/>      
+      <multiplicity id="206" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="207">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="74"/>  
+  </nesting>  
+  <association id="208">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="209" name="values"/>      
+      <multiplicity id="210" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="211">    
+    <end type="SOURCE" refId="49" navigable="false">      
+      <attribute id="212" name="service"/>      
+      <multiplicity id="213" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="214">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="215" name="configuration"/>      
+      <multiplicity id="216" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="217">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="76"/>  
+  </nesting>  
+  <association id="218">    
+    <bendpoint x="4907" y="2418"/>    
+    <bendpoint x="4907" y="2190"/>    
+    <end type="SOURCE" refId="62" navigable="false">      
+      <attribute id="219" name="arguments"/>      
+      <multiplicity id="220" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="82" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="221">    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="222" name="qosRequirements"/>      
+      <multiplicity id="223" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="224">    
+    <end type="SOURCE" refId="52" navigable="false">      
+      <attribute id="225" name="left"/>      
+      <multiplicity id="226" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="56" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="227">    
+    <end type="SOURCE" refId="66" navigable="false">      
+      <attribute id="228" name="First"/>      
+      <multiplicity id="229" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="56" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="230">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="24"/>  
+  </generalization>  
+  <nesting id="231">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="65"/>  
+  </nesting>  
+  <nesting id="232">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="61"/>  
+  </nesting>  
+  <association id="233">    
+    <end type="SOURCE" refId="67" navigable="false">      
+      <attribute id="234" name="min"/>      
+      <multiplicity id="235" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="56" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="236">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <nesting id="237">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="50"/>  
+  </nesting>  
+  <generalization id="238">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <realization id="239">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="38"/>  
+  </realization>  
+  <generalization id="240">    
+    <end type="SOURCE" refId="53"/>    
+    <end type="TARGET" refId="51"/>  
+  </generalization>  
+  <nesting id="241">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="57"/>  
+  </nesting>  
+  <nesting id="242">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="66"/>  
+  </nesting>  
+  <association id="243">    
+    <end type="SOURCE" refId="59" navigable="false">      
+      <attribute id="244" name="statements"/>      
+      <multiplicity id="245" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="56" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="246">    
+    <end type="SOURCE" refId="67"/>    
+    <end type="TARGET" refId="82"/>  
+  </generalization>  
+  <nesting id="247">    
+    <bendpoint x="4422" y="2738"/>    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="72"/>  
+  </nesting>  
+  <nesting id="248">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="80"/>  
+  </nesting>  
+  <generalization id="249">    
+    <end type="SOURCE" refId="74"/>    
+    <end type="TARGET" refId="82"/>  
+  </generalization>  
+  <association id="250">    
+    <end type="SOURCE" refId="41" navigable="false">      
+      <attribute id="251" name="messageReceiver"/>      
+      <multiplicity id="252" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="38" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="253">    
+    <end type="SOURCE" refId="42" navigable="false">      
+      <attribute id="254" name="queue"/>      
+      <multiplicity id="255" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="38" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="256">    
+    <end type="SOURCE" refId="66" navigable="false">      
+      <attribute id="257" name="True"/>      
+      <multiplicity id="258" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="56" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="259">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="55"/>  
+  </nesting>  
+  <generalization id="260">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <generalization id="261">    
+    <end type="SOURCE" refId="66"/>    
+    <end type="TARGET" refId="82"/>  
+  </generalization>  
+  <nesting id="262">    
+    <bendpoint x="2572" y="2738"/>    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="81"/>  
+  </nesting>  
+  <association id="263">    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="264" name="configurationEffector"/>      
+      <multiplicity id="265" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="266">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="64"/>  
+  </nesting>  
+  <realization id="267">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="28"/>  
+  </realization>  
+  <nesting id="268">    
+    <bendpoint x="2760" y="2738"/>    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="53"/>  
+  </nesting>  
+  <nesting id="269">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="62"/>  
+  </nesting>  
+  <nesting id="270">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="75"/>  
+  </nesting>  
+  <association id="271">    
+    <end type="SOURCE" refId="87" navigable="false">      
+      <attribute id="272" name="visitedNodes"/>      
+      <multiplicity id="273" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="56" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="274">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="59"/>  
+  </nesting>  
+  <generalization id="275">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <association id="276">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="277" name="serviceProfiles"/>      
+      <multiplicity id="278" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="279">    
+    <end type="SOURCE" refId="60"/>    
+    <end type="TARGET" refId="56"/>  
+  </generalization>  
+  <generalization id="280">    
+    <end type="SOURCE" refId="75"/>    
+    <end type="TARGET" refId="56"/>  
+  </generalization>  
+  <generalization id="281">    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <association id="282">    
+    <end type="SOURCE" refId="71" navigable="false">      
+      <attribute id="283" name="rightExpression"/>      
+      <multiplicity id="284" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="56" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="285">    
+    <end type="SOURCE" refId="79" navigable="false">      
+      <attribute id="286" name="serviceClient"/>      
+      <multiplicity id="287" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="288">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="24"/>  
+  </generalization>  
+  <nesting id="289">    
+    <bendpoint x="3926" y="2738"/>    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="54"/>  
+  </nesting>  
+  <generalization id="290">    
+    <bendpoint x="2891" y="2418"/>    
+    <end type="SOURCE" refId="71"/>    
+    <end type="TARGET" refId="74"/>  
+  </generalization>  
+  <association id="291">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="292" name="serviceDescription"/>      
+      <multiplicity id="293" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="294">    
+    <bendpoint x="4240" y="2418"/>    
+    <end type="SOURCE" refId="73"/>    
+    <end type="TARGET" refId="74"/>  
+  </generalization>  
+  <realization id="295">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="38"/>  
+  </realization>  
+  <association id="296">    
+    <end type="SOURCE" refId="56" navigable="false">      
+      <attribute id="297" name="taskType"/>      
+      <multiplicity id="298" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="77" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="299">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <generalization id="300">    
+    <bendpoint x="4886" y="2418"/>    
+    <bendpoint x="4886" y="2190"/>    
+    <end type="SOURCE" refId="62"/>    
+    <end type="TARGET" refId="82"/>  
+  </generalization>  
+  <nesting id="301">    
+    <bendpoint x="3537" y="2190"/>    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="82"/>  
+  </nesting>  
+  <association id="302">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="303" name="cacheEffector"/>      
+      <multiplicity id="304" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="305">    
+    <end type="SOURCE" refId="59"/>    
+    <end type="TARGET" refId="56"/>  
+  </generalization>  
+  <association id="306">    
+    <end type="SOURCE" refId="56" navigable="false">      
+      <attribute id="307" name="next"/>      
+      <multiplicity id="308" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="56" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="309">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <association id="310">    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="311" name="cache"/>      
+      <multiplicity id="312" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="37" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="313">    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="39"/>  
+  </realization>  
+  <association id="314">    
+    <end type="SOURCE" refId="56" navigable="false">      
+      <attribute id="315" name="prev"/>      
+      <multiplicity id="316" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="56" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

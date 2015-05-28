@@ -35,15 +35,37 @@ The stakeholders and the view of interest to them:
 The layered view describes how the whole system is structured in layers and
 serves as an introduction.
 
-#### 2.1.2. View Packet Overview
+#### 2.1.2. View Packets
 
-#### 2.1.3. Architecture Background
+|-------------------------------------------------------------------|
+|                     External Systems                              |
+|-------------------------------------------------------------------|
 
-#### 2.1.4. View Packets
+|-------------------------------------------------------------------|
+| Services Layer                                                    |
+|                                                                   |
+| > Atomic Service < > Service Description <                        |
+|-------------------------------------------------------------------|
 
-##### 2.1.4.1. Application
+|-------------------------------------------------------------------|
+| Business Layer                                                    |
+|                                                                   |
+| > Service Registry                                              < |
+|                                                                   |
+| > Service Client < > Composite Service <                          |
+|-------------------------------------------------------------------|
 
-##### 2.1.4.2. Service
+Atomic services har en egen funktionalitet som inte är beroende av andra services.
+
+En service description innehåller information om en service. Bland annat namn,
+a list of supported operations, address.
+
+Composite services är andra services ihopkopplade baserat på ett workflow, som
+förklarar hur services ska how to compose them.
+En workflow engine används för att execute the workflow.
+
+Service registry används för att registrera och lookup services med hjälp av en
+service description.
 
 
 ### 2.2. Logical View
@@ -53,15 +75,7 @@ serves as an introduction.
 The logical view describes the most important classes and their organization in
 packages.
 
-#### 2.2.2. View Packet Overview
-
-#### 2.2.3. Architecture Background
-
-#### 2.2.4. View Packets
-
-##### 2.2.4.1. Application
-
-##### 2.2.4.2. Service
+#### 2.2.2. View Packets
 
 
 ### 2.3. Generalization View
@@ -71,15 +85,7 @@ packages.
 The generalization view allows capturing inheritance relations, such as
 commonalities and differences between different elements.
 
-#### 2.3.2. View Packet Overview
-
-#### 2.3.3. Architecture Background
-
-#### 2.3.4. View Packets
-
-##### 2.3.4.1. Application
-
-##### 2.3.4.2. Service
+#### 2.3.2. View Packets
 
 
 
