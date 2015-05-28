@@ -37,23 +37,7 @@ serves as an introduction.
 
 #### 2.1.2. View Packets
 
-|-------------------------------------------------------------------|
-|                     External Systems                              |
-|-------------------------------------------------------------------|
-
-|-------------------------------------------------------------------|
-| Services Layer                                                    |
-|                                                                   |
-| > Atomic Service < > Service Description <                        |
-|-------------------------------------------------------------------|
-
-|-------------------------------------------------------------------|
-| Business Layer                                                    |
-|                                                                   |
-| > Service Registry                                              < |
-|                                                                   |
-| > Service Client < > Composite Service <                          |
-|-------------------------------------------------------------------|
+![Layered view](layered.png)
 
 Atomic services har en egen funktionalitet som inte är beroende av andra services.
 
