@@ -75,9 +75,9 @@ Effectors and Probes are in the package `service.adaptation.effector` and
 
 ![Adaptation](adaptation.png)
 
-* **AbstractEffecter** is an abstract effector, used by CacheEffector,
-  ConfigurationEffector and WorkflowEffector. Effector is used to enable
-  runtime manipulation of the service application.
+* **AbstractEffector** is an abstract effector, used by ConfigurationEffector
+  and WorkflowEffector. Effector is used to enable runtime manipulation of the
+  service application.
   * *getCompositeService()*: get composite service.
 * **AbstractProbe** is an abstract probe, used by CostProbe and WorkflowProbe.
   Probes is used for monitoring events in the service application.
@@ -152,3 +152,22 @@ The generalization view allows capturing inheritance relations, such as
 commonalities and differences between different elements.
 
 #### 2.3.2. View Packets
+
+##### 2.3.2.1. Effector
+
+![Effector](ieffector.png)
+
+* **AbstractEffector** is an abstract effector, used by ConfigurationEffector
+  and WorkflowEffector. Effector is used to enable runtime manipulation of the
+  service application. AbstractEffector is extended by:
+  * *ConfigurationEffector* is used to change the service configurations.
+  * *WorkflowEffector* is used to dynamically change the behaviour of the
+    workflow.
+
+##### 2.3.2.2. Probes
+
+![Probes](interfaces2.png)
+
+* **AbstractProbe**
+* **CostProbeInterface**
+* **WorkflowProbeInterface**
