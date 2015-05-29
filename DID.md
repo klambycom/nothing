@@ -39,17 +39,18 @@ serves as an introduction.
 
 ![Layered view](layered.png)
 
-Atomic services har en egen funktionalitet som inte är beroende av andra services.
+Atomic services has its own functionality that is not dependent on other
+services.
 
-En service description innehåller information om en service. Bland annat namn,
-a list of supported operations, address.
+A service description contains information about a service. Among other names,
+a list of supported operations, and address.
 
-Composite services är andra services ihopkopplade baserat på ett workflow, som
-förklarar hur services ska how to compose them.
-En workflow engine används för att execute the workflow.
+Composite services are other services connected based on a workflow, which
+explains how to compose the services. A workflow engine is used to execute the
+workflow.
 
-Service registry används för att registrera och lookup services med hjälp av en
-service description.
+Service registry is used to register and lookup services using a service
+description.
 
 
 ### 2.2. Logical View
