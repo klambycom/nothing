@@ -23,6 +23,13 @@ The stakeholders and the view of interest to them:
 
 ### 1.3. How a View is Documented
 
+The view are seperated into three categories; layered view, logical view and
+generalization view.
+
+* 2.i: name of view
+* 2.i.1: view description
+* 2.i.2: view packets
+
 
 
 ## 2. Views
