@@ -177,3 +177,19 @@ commonalities and differences between different elements.
     * *WorkflowProbe* monitor the start and end of a workflow execution.
 * **CostProbeInterface** is used to probe the cost of a specific service.
 * **WorkflowProbeInterface** is used to probe a workflow.
+
+##### 2.3.2.3. Auxiliary
+
+![Auxiliary](aux.png)
+
+* **AbstractService** used to create a basic service. AtomicService and
+  CompositeService extends AbstractService.
+  * *AtomicService* is used to create a atomic service.
+  * *CompositeService* is used to create a composite service.
+* **AbstractMessage** is used to create a message, that have a id, endpoint and
+  messagetype. Request and response extends AbstractService.
+  * *Request* is a formated request message.
+  * *Response* is a formated response message.
+* **ServiceRegistryInterface** is an interface for register, unregister and
+  lookup services. Inhereted by ServiceRegistry.
+  * *ServiceRegistry* is used to register, unregister and finding services. 
