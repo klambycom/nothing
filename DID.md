@@ -168,6 +168,12 @@ commonalities and differences between different elements.
 
 ![Probes](interfaces2.png)
 
-* **AbstractProbe**
-* **CostProbeInterface**
-* **WorkflowProbeInterface**
+* **AbstractProbe** is an abstract probe, used by CostProbe and WorkflowProbe.
+  Probes is used for monitoring events in the service application.
+  AbstractProbe is a generic class used by CostProbe together with CostProbeInterface
+  and WorkflowProbe together with WorkflowProbeInterface.
+    * *CostProbe* monitor the cost of service invocations from a specific
+      service.
+    * *WorkflowProbe* monitor the start and end of a workflow execution.
+* **CostProbeInterface** is used to probe the cost of a specific service.
+* **WorkflowProbeInterface** is used to probe a workflow.
