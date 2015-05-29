@@ -193,3 +193,18 @@ commonalities and differences between different elements.
 * **ServiceRegistryInterface** is an interface for register, unregister and
   lookup services. Inhereted by ServiceRegistry.
   * *ServiceRegistry* is used to register, unregister and finding services. 
+
+##### 2.3.2.4. Provider
+
+![Provider](provider.png)
+
+* **MessageReceiver** is a interface used by a service to listen for messages
+  from service provider. Inhereted by AbstractService and
+  AbstractServiceClient.
+  * *AbstractService* is used to create a basic service.
+  * *AbstractServiceClient* is the client for service invocation.
+* **ServiceProvider** is used for providing communication mechanism between
+  different services. Inhereted by ActiveMQProvider and RSPServiceProvider.
+  * *ActiveMQProvider* is a service provider with ActiveMQ.
+  * *RSPServiceProvider* is used for handling sending messages and start/stop
+    listening.
