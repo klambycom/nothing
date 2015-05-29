@@ -208,3 +208,14 @@ commonalities and differences between different elements.
   * *ActiveMQProvider* is a service provider with ActiveMQ.
   * *RSPServiceProvider* is used for handling sending messages and start/stop
     listening.
+
+##### 2.3.2.5. Atomic
+
+![Atomic](atomic2.png)
+
+* **AtomicService** is used to create a atomic service. ServiceProvider extends
+  AtomicService.
+  * *ServiceRegistry* is used to find and register services.
+* **ServiceProfile** have methods that is called before and after messages to
+  emulating the non-functional characteristics of the behavior of services.
+  * *LogAtomicService* is used to print/log a atomic service to console.
