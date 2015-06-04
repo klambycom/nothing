@@ -29,9 +29,9 @@ Isf kan man kanske säga att jag är entreprenör.
 
 ### Vilken funktion fyller entreprenörer och entreprenörskap på marknaden/i samhället?
 
-Men efter att ha läst denna kursen tror jag inte att en entreprenörs mål inte
-behöver vara att bli rik snabbt. Istället tror jag att det är en person som har
-kommet på en idé och väljer att testa den genom att försöka göra ett företag
+Efter att ha läst denna kursen tror jag inte att en entreprenörs mål behöver
+vara att bli rik snabbt. Istället tror jag att det är en person som har
+kommit på en idé och väljer att testa den genom att försöka göra ett företag
 av den. Eller driva marknaden framåt som det står i boken [1].
 
 
@@ -39,8 +39,10 @@ av den. Eller driva marknaden framåt som det står i boken [1].
 
 När jag försöker komma på vad jag ska utveckla/programmera så brukar jag få
 ideér från saker som jag tycker borde finnas eller som inte fungerar som jag
-tycker det borde fungera. Jag tror det fungerar på samma sätt när man ska skapa
-ett företag. Möjligheter kommer från problem som man har observerat.
+tycker det borde fungera. När jag har kommit på en idé är det väldigt enkelt
+att komma på nya ideér som bygger på den gamla. Jag tror det fungerar på samma
+sätt när man ska skapa ett företag. Möjligheter kommer från problem som man
+har observerat.
 
 Det var samma sak för mina föräldrar, de ville inte jobba lika mycket som de
 har gjort innan. Men lantburkare får hela tiden mindre betalt och kunde därför
@@ -82,3 +84,8 @@ affärsplanen behövs och är riktigt användbar för att se hur konkurensen är
 om det finns möjlighet att tjäna pengar. En affärsplan för det ekologiska
 företaget hade kanske varit användbart och hade kanske kunnat ta upp andra
 saker eftersom konkurens och ekonomi kanske inte var lika viktigt.
+
+
+# Referenser
+
+[1] Landström, H. & Löwegren, M. (red) (2009), Entreprenörskap och företagsetablering – Från idé till verklighet. Lund. Studentlitteratur, Replika press Pvt Ltd, Indien. 453 sidor
