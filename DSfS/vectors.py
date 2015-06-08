@@ -1,8 +1,7 @@
 # -*- coding: iso-8859-15 -*-
 
 from __future__ import division
-import re, math, random
-from collections import defaultdict, Counter
+import math
 
 #
 # functions for working with vectors
